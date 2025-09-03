@@ -24,16 +24,18 @@
 
 - **Unreal Engine 5 / Dedicated Server** 기반 멀티플레이 RPG 데모  
 - Interaction / UI / Network Replication / Co-op Puzzle  
-- **Keywords**: Server-authoritative, RepNotify, UI Manager, Subsystem  
+- **Keywords**: Network, Server-authoritative, RepNotify, UI Manager, Subsystem
+- **Note**: 이전 경험을 확장해 최신 UE5 네트워크 및 시스템 아키텍처를 실험ㆍ적용 중인 포트폴리오 데모 프로젝트
   <br>  
 ---
 
 ### 2. [ExtractionShooter-Portfolio🔗](https://github.com/OneBarrack/ExtractionShooter-Portfolio)
-<img src="https://github.com/user-attachments/assets/0b5e3aa3-cfa6-41c0-8048-9cc4711a78b0" width="450" height="253"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/38020595-f3c4-49cd-8ba7-6da9f2ef0a02" width="450" height="253"/> &nbsp;
 <img src="https://github.com/user-attachments/assets/f3787a20-c5ab-43bd-9d01-f0415e583891" width="450" height="253"/>
 - **Extraction Shooter (ActionSquare 경험 기반, 회사 공개 자료/UGC 인용)**  
 - 역할: 클라이언트 프로그래머 (컨텐츠/네트워크/UI/DB/빌드/협업)
-- 2023 ActionSquare Steam Festival Global Playtest (~4,000명) 참여 경험 정리  
+- 2023 ActionSquare Steam Festival Global Playtest (~4,000명) 참여 경험 정리
+- **Note**: 실무에서 컨텐츠/네트워크/UI/빌드/DB 등 다양한 기능 구현 및 개발 운영을 경험하며, 대규모 테스트 과정 및 협업 경험을 축적
   <br>  
 ---
 
