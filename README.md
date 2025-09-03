@@ -19,8 +19,8 @@
 ➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
 ### 1. [ARPG_ContentDemo🔗](https://github.com/OneBarrack/ARPG_ContentDemo)
-<img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" width="450" height="253"/> &nbsp;
-<img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" width="450" height="253"/>
+<img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" width="427" height="240"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" width="427" height="240"/>
 
 - **Unreal Engine 5 / Dedicated Server** 기반 멀티플레이 RPG 데모  
 - Interaction / UI / Network Replication / Co-op Puzzle  
@@ -30,8 +30,8 @@
 ---
 
 ### 2. [ExtractionShooter-Portfolio🔗](https://github.com/OneBarrack/ExtractionShooter-Portfolio)
-<img src="https://github.com/user-attachments/assets/38020595-f3c4-49cd-8ba7-6da9f2ef0a02" width="450" height="253"/> &nbsp;
-<img src="https://github.com/user-attachments/assets/f3787a20-c5ab-43bd-9d01-f0415e583891" width="450" height="253"/>
+<img src="https://github.com/user-attachments/assets/38020595-f3c4-49cd-8ba7-6da9f2ef0a02" width="427" height="240"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/f3787a20-c5ab-43bd-9d01-f0415e583891" width="427" height="240"/>
 - **Extraction Shooter (ActionSquare 경험 기반, 회사 공개 자료/UGC 인용)**  
 - 역할: 클라이언트 프로그래머 (컨텐츠/네트워크/UI/DB/빌드/협업)
 - 2023 ActionSquare Steam Festival Global Playtest (~4,000명) 참여 경험 정리
@@ -40,7 +40,7 @@
 ---
 
 ### 3. [TexasHoldem🔗](https://github.com/OneBarrack/TexasHoldem)
-<img src="https://github.com/user-attachments/assets/af5f8452-7f86-4483-84ae-0a3cc165c528" width="450" height="253"/>
+<img src="https://github.com/user-attachments/assets/af5f8452-7f86-4483-84ae-0a3cc165c528" width="427" height="240"/>
 
 - **Multiplayer game using a Dedicated Server**  
 - Poker 룰 기반 로직 구현 + Login / Logout 및 난입(관전) 시 PlayerState/GameState 서버 동기화
@@ -50,8 +50,8 @@
 ---
 
 ### 4. [ShootingStrike🔗](https://github.com/OneBarrack/ShootingStrike)
-<img src="https://github.com/user-attachments/assets/698be46f-c311-43ad-8b7e-31606b0e095e" width="450" height="253"/>
-<img src="https://github.com/user-attachments/assets/710de0ef-552d-4dde-b8f7-499ea9e140c9" width="450" height="253"/>
+<img src="https://github.com/user-attachments/assets/698be46f-c311-43ad-8b7e-31606b0e095e" width="427" height="240"/>
+<img src="https://github.com/user-attachments/assets/710de0ef-552d-4dde-b8f7-499ea9e140c9" width="427" height="240"/>
 
 - **C++/WinAPI 기반 2D 종스크롤 슈팅 기초 구현 프로젝트**  
 - Object Pool 적용, 발사체 동작 및 패턴, 충돌 처리, 이미지 처리
@@ -61,8 +61,8 @@
 ---
 
 ### 5. [Colosseum-Battle🔗](https://github.com/OneBarrack/Colosseum-Battle)
-<img src="https://github.com/user-attachments/assets/79819b42-a578-4323-b5e0-3a41dfbb9617" width="450" height="253"/>
-<img src="https://github.com/user-attachments/assets/48d9a8c6-71d4-448f-a3f2-8c49d9fb6af3" width="450" height="253"/>
+<img src="https://github.com/user-attachments/assets/79819b42-a578-4323-b5e0-3a41dfbb9617" width="427" height="240"/>
+<img src="https://github.com/user-attachments/assets/48d9a8c6-71d4-448f-a3f2-8c49d9fb6af3" width="427" height="240"/>
 
 - **TPS Action RPG 전투 루프 프로토타입**
 - 간단한 전투 시스템 + 캐릭터 액션 + AI(Possess) + Stage 구성
