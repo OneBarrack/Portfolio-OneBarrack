@@ -15,7 +15,8 @@
 
 ---
 
-## 🔍 Projects
+## 🔍 Projects  
+➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
 ### 1. [ARPG_ContentDemo🔗](https://github.com/OneBarrack/ARPG_ContentDemo)
 <img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" width="450" height="253"/> &nbsp;
@@ -28,6 +29,8 @@
 ---
 
 ### 2. [ExtractionShooter-Portfolio🔗](https://github.com/OneBarrack/ExtractionShooter-Portfolio)
+<img src="https://github.com/user-attachments/assets/0b5e3aa3-cfa6-41c0-8048-9cc4711a78b0" width="450" height="253"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/f3787a20-c5ab-43bd-9d01-f0415e583891" width="450" height="253"/>
 - **Extraction Shooter (ActionSquare 경험 기반, 회사 공개 자료/UGC 인용)**  
 - 역할: 클라이언트 프로그래머 (컨텐츠/네트워크/UI/DB/빌드/협업)
 - 2023 ActionSquare Steam Festival Global Playtest (~4,000명) 참여 경험 정리  
@@ -51,7 +54,7 @@
 - **2D 종스크롤 슈팅 기초 구현 프로젝트**  
 - Object Pool 적용, 발사체 동작 및 패턴, 충돌 처리, 이미지 처리
 - **Keywords**: Object Pooling, Collision, Game Loop
-- **Note**: Start - Ingame - Clear/GameOver 까지 핵심 루프 구성 경험  
+- **Note**: 작은 규모지만 한 판의 시작과 끝이 있는 게임 루프를 직접 구성하고, Object Pool을 통한 최적화와 이미지 처리 과정을 경험하며 게임 흐름 설계와 기본기를 익힘. 
   <br>  
 ---
 
@@ -62,7 +65,7 @@
 - **TPS Action RPG 전투 루프 프로토타입**
 - 간단한 전투 시스템 + 캐릭터 액션 + AI(Possess) + Stage 구성
 - **Keywords**: Ability System, AI, Behavior Tree, Data-Driven Character Stat
-- **Note**: 간단한 게임 흐름, 전투 시스템/캐릭터/AI/HUD/맵을 직접 설계하며 UE 기본기를 체득  
+- **Note**: 간단한 게임 흐름, 전투 시스템/캐릭터/AI/HUD/맵을 직접 설계 학습하며 UE 기본기를 체득  
   <br>  
 ---
 
