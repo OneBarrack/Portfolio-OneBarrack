@@ -51,7 +51,7 @@
 <img src="https://github.com/user-attachments/assets/698be46f-c311-43ad-8b7e-31606b0e095e" width="450" height="253"/>
 <img src="https://github.com/user-attachments/assets/710de0ef-552d-4dde-b8f7-499ea9e140c9" width="450" height="253"/>
 
-- **2D 종스크롤 슈팅 기초 구현 프로젝트**  
+- **C++/WinAPI 기반 2D 종스크롤 슈팅 기초 구현 프로젝트**  
 - Object Pool 적용, 발사체 동작 및 패턴, 충돌 처리, 이미지 처리
 - **Keywords**: Object Pooling, Collision, Game Loop
 - **Note**: 작은 규모지만 한 판의 시작과 끝이 있는 게임 루프를 직접 구성하고, Object Pool을 통한 최적화와 이미지 처리 과정을 경험하며 게임 흐름 설계와 기본기를 익힘. 
