@@ -18,7 +18,7 @@
 ## 🔍 Projects  
 ➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
-### 1. [ARPG_ContentDemo🔗](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)
+### 1. [Co-op Puzzle & Network Demo🔗](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)
 <img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" align="center" width="40%"/> <img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" align="center" width="40%"/>
 
 - **Unreal Engine 5 / Dedicated Server 기반 멀티플레이 시스템 데모**  
