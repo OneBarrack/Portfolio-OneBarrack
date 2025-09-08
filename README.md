@@ -7,7 +7,7 @@
 
 ## 📌 Quick Overview
 
-- **[CoopPuzzle-NetworkDemo](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo) (진행 중, 2025.09.09 기준)** → 멀티플레이 RPG 데모 (UE5, DS, Replication, Co-op Puzzle) (2025 ~)
+- **[CoopPuzzle-NetworkDemo](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)** → 멀티플레이 RPG 데모 (UE5, DS, Replication, Co-op Puzzle) (2025.08 ~ 2025.09 (MVP 구현))
 - **[ExtractionShooter-Portfolio](https://github.com/OneBarrack/ExtractionShooter-Portfolio)** → Extraction Shooter 참여 경험 기반 요약  (2022 ~ 2024) 
 - **[TexasHoldem](https://github.com/OneBarrack/TexasHoldem)** → Dedicated Server 기반 Multiplayer Game (Texas Hold’em)  (2022)
 - **[ShootingStrike](https://github.com/OneBarrack/ShootingStrike)** → 2D 종스크롤 슈팅 기초 구현 프로젝트  (2022)
