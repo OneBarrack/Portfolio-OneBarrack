@@ -7,7 +7,7 @@
 
 ## 📌 Quick Overview
 
-- **[ARPG_ContentDemo](https://github.com/OneBarrack/ARPG_ContentDemo) (진행 중, 2025.09.09 기준)** → 멀티플레이 RPG 데모 (UE5, DS, Replication, Co-op Puzzle) (2025 ~)
+- **[CoopPuzzle-NetworkDemo](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo) (진행 중, 2025.09.09 기준)** → 멀티플레이 RPG 데모 (UE5, DS, Replication, Co-op Puzzle) (2025 ~)
 - **[ExtractionShooter-Portfolio](https://github.com/OneBarrack/ExtractionShooter-Portfolio)** → Extraction Shooter 참여 경험 기반 요약  (2022 ~ 2024) 
 - **[TexasHoldem](https://github.com/OneBarrack/TexasHoldem)** → Dedicated Server 기반 Multiplayer Game (Texas Hold’em)  (2022)
 - **[ShootingStrike](https://github.com/OneBarrack/ShootingStrike)** → 2D 종스크롤 슈팅 기초 구현 프로젝트  (2022)
@@ -18,12 +18,12 @@
 ## 🔍 Projects  
 ➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
-### 1. [ARPG_ContentDemo🔗](https://github.com/OneBarrack/ARPG_ContentDemo)
+### 1. [ARPG_ContentDemo🔗](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)
 <img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" align="center" width="40%"/> <img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" align="center" width="40%"/>
 
-- **Unreal Engine 5 / Dedicated Server** 기반 멀티플레이 RPG 데모  
-- 상호작용 · 퍼즐 · 보상 · 인벤토리 · UI 루프 구현  
-- **Keywords**: Dedicated Server, Replication, RepNotify, Enhanced Input, Subsystem, Inventory, Interaction, Interactable Actor
+- **Unreal Engine 5 / Dedicated Server 기반 멀티플레이 시스템 데모**  
+- 상호작용 → 보상 → 인벤토리 → 게이트 해금 루프를 **MVP 방식**으로 구현
+- **Keywords**: Dedicated Server, Replication, RepNotify, Enhanced Input, Subsystem, Inventory, Interaction, Interactable Actor, Puzzle(Lever·Door·Chest·Plate)
 - **Note**: 이전 경험을 확장해 최신 UE5 네트워크 및 시스템 아키텍처를 실험ㆍ적용 중인 포트폴리오 데모 프로젝트
 
   
