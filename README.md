@@ -22,8 +22,8 @@
 <img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" align="center" width="40%"/> <img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" align="center" width="40%"/>
 
 - **Unreal Engine 5 / Dedicated Server** 기반 멀티플레이 RPG 데모  
-- Interaction / UI / Network Replication / Co-op Puzzle  
-- **Keywords**: Network, Server-authoritative, RepNotify, UI Manager, Subsystem
+- 상호작용 · 퍼즐 · 보상 · 인벤토리 · UI 루프 구현  
+- **Keywords**: Dedicated Server, Replication, RepNotify, Enhanced Input, Subsystem, Inventory, Interaction, Interactable Actor
 - **Note**: 이전 경험을 확장해 최신 UE5 네트워크 및 시스템 아키텍처를 실험ㆍ적용 중인 포트폴리오 데모 프로젝트
 
   
