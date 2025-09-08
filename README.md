@@ -19,7 +19,7 @@
 ➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
 ### 1. [Co-op Puzzle & Network Demo🔗](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)
-<img src="https://github.com/user-attachments/assets/94497e1f-ed2f-4ed5-92f4-59647c7934f8" align="center" width="40%"/> <img src="https://github.com/user-attachments/assets/cce18295-14cc-4a8c-a541-5480bf291ff7" align="center" width="40%"/>
+<img src="https://github.com/user-attachments/assets/eb3cec3b-72a7-492f-915d-d86205db27e0" align="center" width="40%"/> <img src="https://github.com/user-attachments/assets/f0a8e4c6-c869-45f5-9b07-642d714238a5" align="center" width="40%"/>
 
 - **Unreal Engine 5 / Dedicated Server 기반 멀티플레이 시스템 데모**  
 - 상호작용 → 보상 → 인벤토리 → 게이트 해금 루프를 **MVP 방식**으로 구현
