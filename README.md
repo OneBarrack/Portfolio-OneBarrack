@@ -1,11 +1,11 @@
-# 🎮 Portfolio - JoonWoo Hwang
+# Portfolio - JoonWoo Hwang
 
 언리얼 엔진 5 기반 **클라이언트 프로그래머** 포트폴리오입니다.  
 멀티플레이, UI, 네트워크, 컨텐츠 시스템 아키텍처 중심으로 작업한 프로젝트들을 모았습니다.
 
 ---
 
-## 📌 Quick Overview
+## Quick Overview
 
 - **[ExtractionShooter-Portfolio](https://github.com/OneBarrack/ExtractionShooter-Portfolio)** → ActionSquare 실무 참여 경험 정리  (2022 ~ 2024)
 - **[CoopPuzzle-NetworkDemo](https://github.com/OneBarrack/CoopPuzzle-NetworkDemo)** → 멀티플레이 RPG 데모 (UE5, DS, Replication, Co-op Puzzle) (2025.08 ~ 2025.09, Prototype)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔍 Projects  
+## Projects  
 ➡️ 프로젝트 명 클릭 시 GitHub Repo로 이동합니다.
 
 ### 1. [ExtractionShooter-Portfolio🔗](https://github.com/OneBarrack/ExtractionShooter-Portfolio)
